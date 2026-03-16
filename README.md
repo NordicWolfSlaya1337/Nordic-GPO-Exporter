@@ -106,6 +106,20 @@ The ZIP archive is created in the same folder as the script.
 
 ---
 
+## Author
+
+**NordicWolfSlaya1337**
+
+- GitHub: [@NordicWolfSlaya1337](https://github.com/NordicWolfSlaya1337)
+
+---
+
 ## License
 
-Proprietary. All rights reserved.
+This software is proprietary and provided under a custom restrictive license. See the [LICENSE](LICENSE) file for full terms.
+
+- Non-commercial / non-profit use only
+- No modification or derivative works permitted
+- No redistribution or reuse in other projects
+- All rights reserved by NordicWolfSlaya1337
+- Violators are subject to legal action
